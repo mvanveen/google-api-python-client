@@ -1,0 +1,1 @@
+This page have moved to https://developers.google.com/api-client-library/python/guide/aaa_oauth#flow_from_clientsecrets

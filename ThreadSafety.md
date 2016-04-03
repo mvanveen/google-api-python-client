@@ -1,0 +1,1 @@
+https://developers.google.com/api-client-library/python/guide/thread_safety
